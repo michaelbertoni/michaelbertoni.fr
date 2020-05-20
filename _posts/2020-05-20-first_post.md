@@ -1,0 +1,12 @@
+---
+layout: post
+title: The first of many (Probably not)
+---
+
+Here I am, taking on the challenge I read on this [post](https://100daystooffload.com/) : #100DaysToOffload.
+
+Basically, this challenge is about writing a hundred articles in a year. I know myself quite well, this will probably never happen. But, who knows.
+
+So here I am, thinking about this almost blank page and how it will be filled in the next weeks. I guess I will start very soon with my trends of the moment : digital nomad lifestyle, video game streaming, Kubernetes certification...
+
+Let's get to work.
