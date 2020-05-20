@@ -6,7 +6,7 @@ permalink: /about/
 
 My name is Michael Bertoni, I am a French software engineer currently specialized in DevOps activities.
 
-My brain goes from one obsession to the other, I hope this blog will follow the same process. So don't worry if you read an article about container orchestretion after an article that deals with the latest Twitch streamer I am following.
+My brain goes from one obsession to the other, I hope this blog will follow the same process. So don't worry if you stumble upon an article about container orchestration after reading an article that deals with the latest Twitch streamer I am following.
 
 ### Contact me
 
