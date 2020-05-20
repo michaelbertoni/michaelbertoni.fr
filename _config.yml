@@ -18,8 +18,10 @@ email:
 description: >- # this means to ignore newlines until "baseurl:"
   IT enthusiast, Hockey and Badminton player, Drummer, Casual Gamer, just throwing some notes about anything.
 baseurl: /
-disqus:
-  shortname: michaelbertoni2
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: michaelbertoni-blog 
 twitter_username: michaelbertoni_
 github_username: michaelbertoni
 minimal_mistakes_skin: default
