@@ -17,6 +17,7 @@ title: Michaël Bertoni - Blog
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   IT enthusiast, Hockey and Badminton player, Drummer, Casual Gamer, just throwing some notes about anything.
+baseurl: /
 twitter_username: michaelbertoni_
 github_username: michaelbertoni
 minimal_mistakes_skin: default
