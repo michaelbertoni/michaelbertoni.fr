@@ -11,6 +11,8 @@ description: DevOps Engineer From Lyon, France
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://i.imgur.com/4a0hXWb.jpg
 
+remote_theme: mmistakes/minimal-mistakes
+
 #
 # Flags below are optional
 #
