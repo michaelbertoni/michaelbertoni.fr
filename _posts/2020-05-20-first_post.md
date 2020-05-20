@@ -1,6 +1,10 @@
 ---
-layout: post
 title: The first of many (Probably not)
+last_modified_at: 2020-05-20T00:20:02-05:00
+categories:
+  - Blog
+tags:
+  - 100DaysToOffload
 ---
 
 Here I am, taking on the challenge I read on this [post](https://100daystooffload.com/) : #100DaysToOffload.

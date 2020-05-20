@@ -1,5 +1,4 @@
 ---
-layout: page
 title: About
 permalink: /about/
 ---
@@ -10,4 +9,4 @@ My brain goes from one obsession to the other, I hope this blog will follow the 
 
 ### Contact me
 
-You can reach me on Twitter or LinkedIn ! See the icons at the bottom of the page.
+You can reach me on Twitter or LinkedIn ! See the icons at the left side of the page.
