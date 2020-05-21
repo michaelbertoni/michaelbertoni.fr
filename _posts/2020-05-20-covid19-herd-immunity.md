@@ -41,6 +41,11 @@ Note that:
 
 We are still at the very beginning of this pandemic and I find myself really confused with the policies applied everywhere in the world and their different results. As far as this small research goes, all I can conclude is that this herd immunity strategy is rather irrelevant. The recent lockdown restriction easing only inspire me concern and mistrust.
 
-I know this is a really complex topic and it will probably be covered in other articles in the next months.
+I know this is a really complex topic and it will probably be covered in other articles in the next months. Feel free to comment this article because I know I might be wrong about everything I say.
 
 *This article was written for of the [#100DaysToOffload](https://100daystooffload.com/) challenge !* 
+
+---
+Sources :
+* [Christopher Labos: Herd immunity against COVID-19? There's a big catch - Montreal Gazette](https://montrealgazette.com/opinion/columnists/christopher-labos-herd-immunity-against-covid-19-theres-a-big-catch/)
+* [Les asymptomatiques deviennent-ils immunisés ? - La Voix de l'Est](https://www.lavoixdelest.ca/chroniques/jean-francois-cliche/les-asymptomatiques-deviennent-ils-immunises--9773f42bc92f7a9ec6a71dc0b2b9321c)
