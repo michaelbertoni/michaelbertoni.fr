@@ -43,7 +43,7 @@ We are still at the very beginning of this pandemic and I find myself really con
 
 I know this is a really complex topic and it will probably be covered in other articles in the next months. Feel free to comment this article because I know I might be wrong about everything I say.
 
-*This article was written for the [#100DaysToOffload](https://100daystooffload.com/) challenge !* 
+*This is my 1st article written for the [#100DaysToOffload](https://100daystooffload.com/) challenge !* 
 
 ---
 Sources :
