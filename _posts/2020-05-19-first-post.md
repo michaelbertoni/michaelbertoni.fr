@@ -7,11 +7,7 @@ tags:
   - 100DaysToOffload
 ---
 
-*English version below* 
-
----
-
-Me voilà donc en train de relever le défi que je lis sur ce [post](https://100daystooffload.com/) : #100DaysToOffload.
+*English version below* / Me voilà donc en train de relever le défi que je lis sur ce [post](https://100daystooffload.com/) : #100DaysToOffload.
 
 En gros, ce défi consiste à écrire une centaine d'articles par an. Je me connais assez bien, cela n'arrivera probablement jamais. Mais, qui sait ?
 

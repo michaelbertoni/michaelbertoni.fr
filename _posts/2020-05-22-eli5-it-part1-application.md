@@ -9,11 +9,9 @@ tags:
   - ELI5
 ---
 
-*English version below*
+*English version below* / Pour autant que je sache, les gens qui m'entourent, qu'ils soient de ma famille ou de mes amis, ont eu du mal à comprendre ce que je fais de mes journées de travail. Avec ce blog, j'ai enfin l'occasion de l'expliquer.
 
 ---
-
-Pour autant que je sache, les gens qui m'entourent, qu'ils soient de ma famille ou de mes amis, ont eu du mal à comprendre ce que je fais de mes journées de travail. Avec ce blog, j'ai enfin l'occasion de l'expliquer.
 
 Le génie informatique est un sujet vraiment complexe. J'ai 27 ans, donc je suis très loin d'en comprendre tous les aspects. Néanmoins, je pense en savoir assez pour expliquer avec des mots simples à quoi ressemble le domaine de l'informatique afin que tout le monde, même les boomers (désolé), puisse comprendre cette industrie très populaire mais assez méconnue.
 

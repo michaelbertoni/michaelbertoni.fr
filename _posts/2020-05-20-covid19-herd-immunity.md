@@ -8,11 +8,7 @@ tags:
   - covid19
 ---
 
-*English version below*
-
----
-
-Cela fait deux mois que le monde a commencé à se confiner à cause du Covid-19. En ce qui me concerne, j'ai suivi activement l'actualité pendant une semaine ou deux, mais je me suis vite lassé dès que j'ai compris que cette pandémie ne disparaîtra pas aussi vite qu'elle n'est apparue et ne s'est propagée.
+*English version below* / Cela fait deux mois que le monde a commencé à se confiner à cause du Covid-19. En ce qui me concerne, j'ai suivi activement l'actualité pendant une semaine ou deux, mais je me suis vite lassé dès que j'ai compris que cette pandémie ne disparaîtra pas aussi vite qu'elle n'est apparue et ne s'est propagée.
 
 Et ça me convenait. Je travaillais déjà à distance pour mon client américain et la seule différence que cette nouvelle situation a faite pour moi, c'est que je devais rester chez moi la plupart du temps.
 
